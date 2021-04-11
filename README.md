@@ -1,2 +1,2 @@
 # MOOC'S Course under NPTEL
-- C++ Programming, Kharagpur 2020.
+- C++ Programming, IIT Kharagpur, Partha Pratim Das, 2020.
